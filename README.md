@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello! I'm Ana, mostly still a beginner!
 
-<!--
-**ana-365-there/ana-365-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Tech Stack (icons will auto-render)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode&theme=light" />
+</p>
 
-Here are some ideas to get you started:
+## As of now, I am working on:  
+## <span style="color:#ff6b6b; font-weight:600;">Basic Frontend and General Web Development</span> 🍰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am planning to add these to my tech stack:
+🎮 Javascript  
+🤓 C/C++  
+🦀 Rust  
+💻 UI/UX design  
+
+I hope you find my repos useful! Although I’ve barely made anything 😅 Have fun!
+
+## tidbit:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ana-365-there/ana-365-there/main/snake.svg" alt="snake animation"/>
+</p>
