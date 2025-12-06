@@ -1,6 +1,6 @@
 Hello! I'm Ana, mostly still a beginner!
 
-## ✨ Tech Stack (icons will auto-render)
+## ✨ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode&theme=light" />
 </p>
